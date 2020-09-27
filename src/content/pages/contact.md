@@ -3,6 +3,6 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Got a burning question regarding **Programming Port**, Need a new **Website**, or have something to share.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Then you can DM me on [Twitter](https://twitter.com/r_mishra10) , [Telegram](https://t.me/rahul_mishra10) or [LinkedIn](https://www.linkedin.com/in/rahul-mishra-66210b185)
